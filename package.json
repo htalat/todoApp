@@ -1,0 +1,23 @@
+{
+  "name": "todo-app",
+  "version": "1.0.0",
+  "description": "a simple todo app",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/htalat/todoApp.git"
+  },
+  "author": "htalat",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/htalat/todoApp/issues"
+  },
+  "homepage": "https://github.com/htalat/todoApp#readme",
+  "dependencies": {
+    "express": "^4.13.4",
+    "mongoose": "^4.5.0"
+  }
+}
